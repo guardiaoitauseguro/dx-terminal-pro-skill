@@ -62,4 +62,4 @@ All write operations are signed with your private key and executed on Base Mainn
 
 ## Links
 
-- [DX Terminal](https://terminal.markets)
+- [DX Terminal Pro](https://terminal.markets)
