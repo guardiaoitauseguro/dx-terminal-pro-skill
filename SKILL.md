@@ -39,7 +39,15 @@ The environment variable `DX_TERMINAL_PRIVATE_KEY` controls and identifies a tra
 
 `curl -s "https://api.terminal.markets/api/v1/vault?vaultAddress=$VAULT_ADDRESS"`
 
-Vault settings include `maxTradeAmount` (percentage in bps), `slippageBps`, `tradingActivity` (1-5), `assetRiskPreference` (1-5), `tradeSize` (1-5), `holdingStyle` (1-5), and `diversification` (1-5).
+Vault settings include:
+
+- `maxTradeAmount`: The maximum amount of ETH to trade per swap (a percentage of the portfolio's ETH in bps).
+- `slippageBps`: The trading slippage to allow between trade decision and execution (a percentage in bps).
+- `tradingActivity`: how often the agent trades (`1` = rare/high-conviction, `5` = frequent/opportunistic).
+- `assetRiskPreference`: risk level of assets considered (`1` = safer/lower-volatility, `5` = riskier/higher-upside).
+- `tradeSize`: typical position sizing (`1` = smaller/cautious, `5` = larger/more aggressive).
+- `holdingStyle`: expected hold time (`1` = shorter-term, `5` = longer-term/patient).
+- `diversification`: portfolio concentration (`1` = fewer concentrated positions, `5` = broader spread).
 
 ### Get Portfolio
 
