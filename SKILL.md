@@ -39,7 +39,7 @@ The environment variable `DX_TERMINAL_PRIVATE_KEY` controls and identifies a tra
 
 `curl -s "https://api.terminal.markets/api/v1/vault?vaultAddress=$VAULT_ADDRESS"`
 
-Vault settings include maxTradeAmount (percentage in bps), slippageBps, tradingActivity (1-5), assetRiskPreference (1-5), tradeSize (1-5), holdingStyle (1-5), and diversification (1-5).
+Vault settings include `maxTradeAmount` (percentage in bps), `slippageBps`, `tradingActivity` (1-5), `assetRiskPreference` (1-5), `tradeSize` (1-5), `holdingStyle` (1-5), and `diversification` (1-5).
 
 ### Get Portfolio
 
